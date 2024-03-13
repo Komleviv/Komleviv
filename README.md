@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Komleviv
-- 👀 I’m interested in PHP, YII2, Laravel, Bootstrap.
+- 👀 I’m interested in PHP, YII2, Laravel.
 - 🌱 I’m currently learning React, Typescript, Telegram API.
 - 📫 How to reach me: Telegram @Vanki.
 
